@@ -31,14 +31,14 @@ Here are some ideas to get you started:
       Solutions for Lasting Social Change.
     </h3>
     <h3 align="center">
-      🌱 I’m currently seaking opportunity in Canada as a Mobile App Developer
+      🌱 I’m currently seeking opportunity in Canada as a Mobile App Developer
     </h3>
   </samp>
 </p>
 
 <br />
 
-- 📄 Checkout my CV: [Resume](https://drive.google.com) 
+- 📄 Checkout my CV: [Resume](https://drive.google.com/file/d/1YmnHQVpP4n3-9FOxljp_gLipn6i3fHZD/view?usp=sharing) 
 
 - 📁 My Previous Works:
 [--Project Name here --](---Project Link here ---), [--Project Name here
