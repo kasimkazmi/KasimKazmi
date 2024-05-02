@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <br />
 
-- 📄 Checkout my CV: [Resume](https://drive.google.com/file/d/1YmnHQVpP4n3-9FOxljp_gLipn6i3fHZD/view?usp=sharing) 
+- 📄 Checkout my CV: [Resume](https://drive.google.com/file/d/1juA8vg0VsaREf5Ggl3Ly3R9p6uWvs1Mw/view?usp=sharing) 
 
 - 📁 My Previous Works:
 [--Project Name here --](---Project Link here ---), [--Project Name here
