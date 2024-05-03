@@ -88,10 +88,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/eca33ee2a26db45cb924606d34589e0452bf10af/react-original.svg"
       alt="react" width="40" height="40" />
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/eca33ee2a26db45cb924606d34589e0452bf10af/vuejs-original.svg"
-      alt="vuejs" width="40" height="40" />
-  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/eca33ee2a26db45cb924606d34589e0452bf10af/bootstrap-original.svg"
       alt="bootstrap" width="40" height="40" />
