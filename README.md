@@ -189,10 +189,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
       alt="docker" width="40" height="40"  />
   </a>
-    <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/8b1471914281d582ad580276aa9dfb49b2c49808/microsoftsqlserver-original.svg"
-      alt="Microsoft SQL Server" width="40" height="40" />
-  </a>
+  
 </p>
 
 
