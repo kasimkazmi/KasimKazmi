@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 
    :sparkles: Favorite Tech: HTML, CSS, Bootstrap, JavaScript, React-Native, ... <br>
      <h4> :star_struck: Tools Preference: VS-Code, XD, XCODE, Android Studio, Visual Paradigm ... <br></h4>
-
-
 -->
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kasimkazmi&label=Profile%20views&color=0e75b6&style=flat"
@@ -45,9 +42,9 @@ Here are some ideas to get you started:
 
 <br />
 
-- 📄 Checkout my CV: [Resume](https://read.cv/kasimkazmi) 
+- 📄 CV: [Resume](https://read.cv/kasimkazmi) 
 
-- 📁 My Previous Works:
+- 📁 Previous Works:
 [--Project Name here --](---Project Link here ---), [--Project Name here
 --](---Project Link here ---)
 </br>
