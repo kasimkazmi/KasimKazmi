@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   </li>
   <!-- Add more projects here -->
   <li>
-    <a href="[---Project Link here ---]" target="_blank">[---Project Name here ---]</a>
+    <a href="https://vercel.com/kasimkazmis-projects/kaya-perfume-react-js" target="_blank">kaya-perfume-react-js</a>
   </li>
 </ul>
 </br>
