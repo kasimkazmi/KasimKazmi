@@ -42,11 +42,27 @@ Here are some ideas to get you started:
 
 <br />
 
-- 📄 CV: [Resume](https://read.cv/kasimkazmi) 
+**CV** 📄
+================ 
+[Resume](https://read.cv/kasimkazmi) 
 
-- 📁 Previous Works:
-  Profile Portfolio (https://www.kasimkazmi.me/), [--Project Name here
---](---Project Link here ---)
+
+**Previous Works** 💼
+================
+
+#### Profile Portfolio 📊
+<a href="https://www.kasimkazmi.me/" target="_blank">kasimkazmi.me</a>
+
+#### Project Showcase 🎨
+<ul>
+  <li>
+    <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
+  </li>
+  <!-- Add more projects here -->
+  <li>
+    <a href="[---Project Link here ---]" target="_blank">[---Project Name here ---]</a>
+  </li>
+</ul>
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
