@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - 📄 CV: [Resume](https://read.cv/kasimkazmi) 
 
 - 📁 Previous Works:
-[--Portfolio --](https://www.kasimkazmi.me/), [--Project Name here
+  Profile Portfolio (https://www.kasimkazmi.me/), [--Project Name here
 --](---Project Link here ---)
 </br>
 <h3 align="left">Connect with me:</h3>
