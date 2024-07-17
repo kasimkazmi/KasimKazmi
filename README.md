@@ -33,9 +33,12 @@ Here are some ideas to get you started:
     <h3 align="center">
       :sassy_man: Impact-Oriented Developer: Revolutionizing End-to-End
       Solutions for Lasting Social Change.
-    </h3>
-    <h3 align="center">
-      🌱 I’m currently seeking opportunity in Canada as a Mobile App Developer
+  <h3 align="center">
+   👨‍💼Co-founder of <a href="https://santeck.in/" target="_blank">Santeck.in,</a>
+  empowering businesses through software development, UI/UX design, and more. 💻
+</h3>
+     <h3 align="center">
+      🌱 Exploring New Opportunities.
     </h3>
   </samp>
 </p>
