@@ -55,13 +55,22 @@ Here are some ideas to get you started:
 
 #### Project Showcase 🎨
 <ul>
+     <!-- Book Buddy Nest-js Project -->
   <li>
     <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
   </li>
-  <!-- Add more projects here -->
+  <!-- Kaya Perfume react-js Project -->
   <li>
-    <a href="https://vercel.com/kasimkazmis-projects/kaya-perfume-react-js" target="_blank">kaya-perfume-react-js</a>
+    <a href="https://vercel.com/kasimkazmis-projects/kaya-perfume-react-js" target="_blank">Kaya-Perfume-react-js</a>
   </li>
+     <!-- react-toolkit-Todo-Frontend Project -->
+
+   <li>
+    <a href="https://vercel.com/kasimkazmis-projects/react-toolkit-todo-frontend" target="_blank">react-toolkit-Todo-Frontend</a>
+  </li>
+
+
+
 </ul>
 </br>
 <h3 align="left">Connect with me:</h3>
