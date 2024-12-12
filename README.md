@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <li>
     <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
   </li>
-  <!-- Kaya Perfume react-js Project -->
+<!--   <!-- Kaya Perfume react-js Project -->
   <li>
     <a href="https://vercel.com/kasimkazmis-projects/kaya-perfume-react-js" target="_blank">Kaya-Perfume-react-js</a>
   </li>
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
    <li>
     <a href="https://vercel.com/kasimkazmis-projects/react-toolkit-todo-frontend" target="_blank">react-toolkit-Todo-Frontend</a>
-  </li>
+  </li> -->
 
 
 
