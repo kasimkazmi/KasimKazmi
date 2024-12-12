@@ -62,16 +62,21 @@ Here are some ideas to get you started:
   <li>
     <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
   </li>
+
+
+   
+<!-- react-toolkit-Todo-Frontend Project -->
+
 <!--   <!-- Kaya Perfume react-js Project -->
-  <li>
+
+<!--   <li>
     <a href="https://vercel.com/kasimkazmis-projects/kaya-perfume-react-js" target="_blank">Kaya-Perfume-react-js</a>
   </li>
-     <!-- react-toolkit-Todo-Frontend Project -->
 
    <li>
     <a href="https://vercel.com/kasimkazmis-projects/react-toolkit-todo-frontend" target="_blank">react-toolkit-Todo-Frontend</a>
-  </li> -->
-
+  </li> 
+ -->
 
 
 </ul>
@@ -100,7 +105,7 @@ Here are some ideas to get you started:
       alt="kasim_kazmi" height="30" width="40" /></a>
 </p>
 </br>
-
+<!-- 
 <h2 align="center">Languages and Tools:</h2>
 <h3 align="left">Frontend Technologies:</h3>
 <p align="left">
@@ -120,7 +125,9 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/eca33ee2a26db45cb924606d34589e0452bf10af/react-original.svg"
       alt="react" width="40" height="40" />
   </a>
+  -->
 
+<!-- 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/eca33ee2a26db45cb924606d34589e0452bf10af/bootstrap-original.svg"
       alt="bootstrap" width="40" height="40" />
@@ -169,57 +176,8 @@ Here are some ideas to get you started:
       alt="aws" width="40" height="40" />
   </a>
 </p>
+-->
 
-
-<h3 align="left">Design and Graphics Tools:</h3>
-<p align="left">
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/db328796cd1e2deb922acb9a005589dfdbd0dc66/canva-original.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/aceba2bc77f90a8e41e0530c93c3912f9561b1f9/xd-original.svg" alt="Adobe xd" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Software Familiarity </h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-
- <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/aceba2bc77f90a8e41e0530c93c3912f9561b1f9/xcode-original.svg"
-      alt="XCODE" width="40" height="40" />
-  </a>
-  
- <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/db328796cd1e2deb922acb9a005589dfdbd0dc66/androidstudio.svg"
-      alt="Android Studio" width="45" height="45" />
-  </a>
- <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/aceba2bc77f90a8e41e0530c93c3912f9561b1f9/vscode-original.svg"
-      alt="VScode" width="40" height="40" />
-  </a>
-  
-<a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/aceba2bc77f90a8e41e0530c93c3912f9561b1f9/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-   <a href="https://about.gitlab.com/install/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/aceba2bc77f90a8e41e0530c93c3912f9561b1f9/gitlab-original.svg"
-      alt="GitLab" width="40" height="40" />
-  </a> 
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/caad88ee524cbdb64f56c4040918316da140198d/slack-original.svg"
-      alt="slack" width="40" height="40" />  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kasimkazmi/Social-Media-Icons/aceba2bc77f90a8e41e0530c93c3912f9561b1f9/github-original.svg"
-      alt="GitHub" width="40" height="40"/>
-  </a>
-
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker" width="40" height="40"  />
-  </a>
-  
-</p>
 
 
 
