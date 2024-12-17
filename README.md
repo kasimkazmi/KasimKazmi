@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Kasim Kazmi! ✌️😎</h1>
 <p align="center">
   <!-- copywrite reserve by-> Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=30&pause=1000&color=091510&background=25B14400&center=true&vCenter=true&random=false&width=900&height=30&lines=Full+Stack+Web+%26+Mobile+App+Developer;Embracing+continuous+learning+enables+me+to+continually+discover+new+things." />
+  <img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=30&pause=1000&color=FFFFFF&background=25B14400&center=true&vCenter=true&random=false&width=900&height=30&lines=Full+Stack+Web+%26+Mobile+App+Developer;Embracing+continuous+learning+enables+me+to+continually+discover+new+things." />
 </p>
 
 <p align="center">
