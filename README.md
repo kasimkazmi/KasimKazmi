@@ -62,9 +62,20 @@ Here are some ideas to get you started:
   <li>
     <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
   </li>
+        <!-- City Transit React-Native -->
+
+<li>
+    <a href="https://youtu.be/qLsCfpwcStQ/" target="_blank">Citry Transit</a>
+  </li>
+<!-- Play Youtube Clone Frontend Project -->
+
+<li>
+    <a href="https://video-streaming-frontend-gilt.vercel.app/" target="_blank">Play - Youtube Clone</a>
+  </li>
 
 
    
+
 <!-- react-toolkit-Todo-Frontend Project -->
 
 <!--   <!-- Kaya Perfume react-js Project -->
