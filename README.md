@@ -58,6 +58,10 @@ Here are some ideas to get you started:
 
 #### Project Showcase 🎨
 <ul>
+
+   <li>
+        <a href="https://www.realtor-devan.com/" target="_blank">Realtor-Devan</a>
+  </li>
      <!-- Book Buddy Nest-js Project -->
   <li>
     <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
