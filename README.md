@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   </li>
      <!-- Book Buddy Nest-js Project -->
   <li>
-    <a href="https://bookbuddy-nextjs.vercel.app/" target="_blank">BookBuddy</a>
+    <a href="https://bookbuddy-app-next-js.vercel.app/home" target="_blank">BookBuddy</a>
   </li>
         <!-- City Transit React-Native -->
 
