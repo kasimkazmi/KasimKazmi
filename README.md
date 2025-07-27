@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ================
 
 #### Profile Portfolio 📊
-<a href="https://www.kasimkazmi.me/" target="_blank">kasimkazmi.me</a>
+<a href="https://www.kasimkazmi.com/" target="_blank">kasimkazmi.com</a>
 
 #### Project Showcase 🎨
 <ul>
