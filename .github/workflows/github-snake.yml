@@ -20,10 +20,12 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
-      - name: Push generated files to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GH_PAT: ${{ secrets.GH_TOKEN }}
+      - name: Push to output branch
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git checkout -b output 2>/dev/null || git checkout output
+          git add dist/
+          git commit -m "Update snake animation" || exit 0
+          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/kasimkazmi/KasimKazmi.git
+          git push origin output
