@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every 24 hours
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # allow GITHUB_TOKEN to push
 
 jobs:
   generate:
@@ -12,14 +15,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+        # remove token override so the default GITHUB_TOKEN is used and credentials are persisted
+        # with persist-credentials true (default). Do NOT override with an incorrect or limited token.
+
       - uses: Platane/snk@v3
         with:
           github_user_name: kasimkazmi
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg
+
       - name: Push to output branch
         run: |
           git config --local user.email "action@github.com"
@@ -27,5 +32,6 @@ jobs:
           git checkout -b output 2>/dev/null || git checkout output
           git add dist/
           git commit -m "Update snake animation" || exit 0
-          git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/kasimkazmi/KasimKazmi.git
+          # the checkout action has persisted credentials for GITHUB_TOKEN,
+          # so a plain git push will authenticate with the token
           git push origin output
