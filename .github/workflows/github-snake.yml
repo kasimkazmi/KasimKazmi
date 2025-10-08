@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Generate Snake Game from Contributions
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       - uses: Platane/snk@v3
         with:
           github_user_name: kasimkazmi
