@@ -47,8 +47,6 @@ Delivered mobile apps using **React Native** and full-stack web apps using **Nex
 
 ---
 
-## 🧰 Tech Stack (matches your CV)
-
 ### 🖥️ Languages & Frameworks  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,20 +76,4 @@ Delivered mobile apps using **React Native** and full-stack web apps using **Nex
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasimkazmi&theme=synthwave&hide_border=true&count_private=true" width="55%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasimkazmi&theme=synthwave&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimkazmi&layout=compact&theme=synthwave&hide_border=true" width="36%" />
-</div>
-
----
-
-## 🐍 Contribution Snake  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasimkazmi/kasimkazmi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasimkazmi/kasimkazmi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kasimkazmi/kasimkazmi/output/github-snake.svg" />
-</picture>
