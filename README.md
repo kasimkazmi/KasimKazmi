@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=kasimkazmi&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<h1 align="center">⚡ Raja Kazmi | Full-Stack Mobile & Web Developer</h1>
+<h1 align="center">⚡ Full-Stack Mobile & Web Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=React+Native+%7C+Next.js+%7C+FastAPI;Building+Mobile+%26+Web+Apps+That+Actually+Ship;Full+Stack+Developer+%7C+Freelancer+%7C+Product+Builder" />
